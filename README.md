@@ -55,7 +55,7 @@ Telechroma is a portable, affordable, and easy-to-use colorimetric analyzer desi
    - Perform colorimetric tests on biological samples (e.g., urine) and record the color data.
    - The app will display the concentration of analytes based on color matching.
 
-![Complete Device](assets/Results/Figure 5.1 Hardware implementation result/Device_Telechroma.jpg)
+![Complete Device](assets/Results/Figure_5_1_Hardware_implementation_result/Device_Telechroma.jpg)
 
 ## Results and Discussion:
 - **Accuracy**: In device mode, accuracy was 100%, while in camera mode it was 80%.
