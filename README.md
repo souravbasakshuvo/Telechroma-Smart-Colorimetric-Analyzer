@@ -3,15 +3,18 @@
 **Project Title**: Telechroma  
 **Project Team**: Team Telechroma  
 **University**: Khulna University of Engineering & Technology (KUET)  
-**Course**: BME 4232 (Biomedical Engineering)  
+**Course**: BME 4232 Telemedicine & Health Care Laboratory
 **Instructors**: Anik Ghosh, Amit Dutta Roy  
 **Date**: 03-12-2023  
 
 ## Abstract
 
-Telechroma is a portable, affordable, and easy-to-use colorimetric analyzer designed for telemedicine applications. It analyzes the concentration of biological analytes based on color changes in urine samples using colorimetric analysis. The data is then wirelessly transmitted via Bluetooth to a mobile app, enabling remote diagnostics and consultations. This device helps democratize healthcare, offering affordable diagnostic tests to patients in remote areas. It integrates hardware (Arduino Nano, TCS3200...
+Telechroma is a portable, affordable, and easy-to-use colorimetric analyzer designed for telemedicine applications. It analyzes the concentration of biological analytes based on color changes in urine samples using colorimetric analysis. The data is then wirelessly transmitted via Bluetooth to a mobile app, enabling remote diagnostics and consultations. This device helps democratize healthcare, offering affordable diagnostic tests to patients in remote areas. It integrates hardware (Arduino Nano, TCS3200 Color Sensor, HC-05 Bluetooth Module) and software (MIT App Inventor mobile app) to create a comprehensive diagnostic solution.
 
-![System Architecture Diagram](assets/diagrams/system_architecture.png)
+
+![Proposed Flow Diagram (Using Device)](assets/diagrams/Figure_3_12_Proposed_flow_diagram_using_device.png)
+
+![Proposed Flow Diagram (Using Camera)](assets/diagrams/Figure_3_13_Proposed_flow_diagram_for_the_alternative_application_using_camera.png)
 
 ## Features:
 - **Portable and Affordable**: Compact design with cost-effective components
@@ -26,7 +29,7 @@ Telechroma is a portable, affordable, and easy-to-use colorimetric analyzer desi
 - **Bluetooth HC-05 Module**: Wireless communication with the mobile app.
 - **Breadboard & Wires**: For assembling the electronic components.
 
-![Circuit Diagram](assets/diagrams/circuit_diagram.png)
+![Circuit Diagram](assets/diagrams/Figure_3_9_Proposed_circuit_diagram.jpg)
 
 ## Software Components:
 - **Arduino IDE**: Code for Arduino microcontroller.
@@ -52,7 +55,7 @@ Telechroma is a portable, affordable, and easy-to-use colorimetric analyzer desi
    - Perform colorimetric tests on biological samples (e.g., urine) and record the color data.
    - The app will display the concentration of analytes based on color matching.
 
-![Device 3D Model](assets/diagrams/device_model.png)
+![Complete Device](assets/Results/Figure 5.1 Hardware implementation result/Device_Telechroma.jpg)
 
 ## Results and Discussion:
 - **Accuracy**: In device mode, accuracy was 100%, while in camera mode it was 80%.
