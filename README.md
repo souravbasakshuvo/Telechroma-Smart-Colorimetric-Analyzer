@@ -67,7 +67,7 @@ Telechroma is a portable, affordable, and easy-to-use colorimetric analyzer desi
 - Expanding the range of analytes that can be detected.
 
 ## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ## References:
 1. Deepak Pathania et al., "Telemedicine," Springer Handbook of Medical Technology, 2022.
