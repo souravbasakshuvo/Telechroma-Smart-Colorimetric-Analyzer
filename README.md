@@ -12,9 +12,9 @@
 Telechroma is a portable, affordable, and easy-to-use colorimetric analyzer designed for telemedicine applications. It analyzes the concentration of biological analytes based on color changes in urine samples using colorimetric analysis. The data is then wirelessly transmitted via Bluetooth to a mobile app, enabling remote diagnostics and consultations. This device helps democratize healthcare, offering affordable diagnostic tests to patients in remote areas. It integrates hardware (Arduino Nano, TCS3200 Color Sensor, HC-05 Bluetooth Module) and software (MIT App Inventor mobile app) to create a comprehensive diagnostic solution.
 
 
-![Proposed Flow Diagram (Using Device)](assets/diagrams/Figure_3_12_Proposed_flow_diagram_using_device.png)
+![Proposed Flow Diagram (Using Device)](assets/diagrams/Figure_3_12_flow_diagram_device.png)
 
-![Proposed Flow Diagram (Using Camera)](assets/diagrams/Figure_3_13_Proposed_flow_diagram_for_the_alternative_application_using_camera.png)
+![Proposed Flow Diagram (Using Camera)](assets/diagrams/Figure_3_13_flow_diagram_camera.png)
 
 ## Features:
 - **Portable and Affordable**: Compact design with cost-effective components
